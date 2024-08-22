@@ -20,6 +20,8 @@ Pré requisitos
 5. Após a instalação dos pacotes, correr no mesmo terminal, `ng serve` para criar um servidor de teste que estará acessível no browser em [http://localhost:4200/](http://localhost:4200/)
 
 ## Requisitos
+
+-   O login deverá residir no ficheiro `app.component.html` com os métodos no ficheiro `app.component.ts`
 -   O tipo de letra a utilizar é o [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans?query=jakarta) disponível para inclusão no link fornecido
 -   A página deverá ser responsive (apenas desktop e mobile).
 -   O email deve ser validado como tal (incluir @ e . após o domínio)
