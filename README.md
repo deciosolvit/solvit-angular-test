@@ -31,6 +31,7 @@ Pré requisitos
 -   O login deverá ter uma chamada POST para o endpoint [https://json-placeholder.mock.beeceptor.com/login](https://json-placeholder.mock.beeceptor.com/login) em que envia o seguinte body: `{"username": "emailAqui",
 "password": "passwordAqui"}` e deverá reagir de acordo com o resultado (sucesso ou insucesso). Poderá testar o mesmo enviando os prefixos `success-` ou `failed-` antes da password, ex: `failed-password`.
 -   O código deve compilar correndo o comando `ng build` no terminal
+-   Após conclusão o código fonte deve ser fornecido num ficheiro zip (não sendo necessário a pasta `node_modules`)
 
 ### Exemplos de respostas do endpoint
 
